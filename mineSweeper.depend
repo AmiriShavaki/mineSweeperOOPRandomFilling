@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1581312847 source:c:\users\amiri\onedrive\codesandprojects\ap\linkagedoopfiles\minesweeper\a.cpp
+	<iostream>
+	"A.h"
+
+1581312647 c:\users\amiri\onedrive\codesandprojects\ap\linkagedoopfiles\minesweeper\a.h
+
+1581312629 source:c:\users\amiri\onedrive\codesandprojects\ap\linkagedoopfiles\minesweeper\main.cpp
+	"A.h"
+	<iostream>
+
+1581444074 source:c:\users\amiri\onedrive\codesandprojects\ap\minesweeperooprandomfilling\a.cpp
+	<iostream>
+	"A.h"
+	<cstdlib>
+
+1581440025 c:\users\amiri\onedrive\codesandprojects\ap\minesweeperooprandomfilling\a.h
+
+1581445148 source:c:\users\amiri\onedrive\codesandprojects\ap\minesweeperooprandomfilling\main.cpp
+	"A.h"
+	<iostream>
+
+1581444074 source:c:\users\amiri\onedrive\codesandprojects\ap\codeswrittenintheclass\minesweeperooprandomfilling\a.cpp
+	<iostream>
+	"A.h"
+	<cstdlib>
+
+1581440025 c:\users\amiri\onedrive\codesandprojects\ap\codeswrittenintheclass\minesweeperooprandomfilling\a.h
+
+1581445251 source:c:\users\amiri\onedrive\codesandprojects\ap\codeswrittenintheclass\minesweeperooprandomfilling\main.cpp
+	"A.h"
+	<iostream>
+
+1581444074 source:c:\users\amiri\documents\ap\codeswrittenintheclass\minesweeperooprandomfilling\a.cpp
+	<iostream>
+	"A.h"
+	<cstdlib>
+
+1581440025 c:\users\amiri\documents\ap\codeswrittenintheclass\minesweeperooprandomfilling\a.h
+
+1581445251 source:c:\users\amiri\documents\ap\codeswrittenintheclass\minesweeperooprandomfilling\main.cpp
+	"A.h"
+	<iostream>
+
